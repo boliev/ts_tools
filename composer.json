@@ -1,5 +1,6 @@
 {
-    "type": "project",
+    "name": "boliev/ts_tools",
+    "type": "library",
     "license": "proprietary",
     "require": {
         "php": "^7.1.3",
